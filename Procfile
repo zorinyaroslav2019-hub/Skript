@@ -1,1 +1,1 @@
-worker: python composite bot.py
+worker: python "composite bot.py"
